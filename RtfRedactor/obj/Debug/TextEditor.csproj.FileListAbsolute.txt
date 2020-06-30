@@ -1,0 +1,10 @@
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\obj\Debug\RtfRedactor.MainForm.resources
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\obj\Debug\RtfRedactor.NewFileForm.resources
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\obj\Debug\RtfRedactor.Properties.Resources.resources
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\bin\Debug\RtfRedactor.exe.config
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\bin\Debug\RtfRedactor.exe
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\bin\Debug\RtfRedactor.pdb
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\obj\Debug\RtfRedactor.exe
+C:\Users\Каспер\Desktop\ООП C#\Lab 7\RtfRedactor\obj\Debug\RtfRedactor.pdb
